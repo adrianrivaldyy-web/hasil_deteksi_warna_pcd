@@ -1,0 +1,17 @@
+IDENTITAS KELOMPOK
+
+Judul Project:
+Implementasi Sistem Deteksi Warna Objek Secara Real-Time Menggunakan HSV dan OpenCV
+
+Anggota 1:
+Nama :
+NIM  :
+Kelas:
+
+Anggota 2:
+Nama :
+NIM  :
+Kelas:
+
+Mata Kuliah: Pengolahan Citra Digital
+Topik       : Poin 5 - Deteksi Warna Objek Real-Time

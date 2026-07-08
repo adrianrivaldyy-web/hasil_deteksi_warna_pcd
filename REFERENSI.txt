@@ -1,0 +1,22 @@
+REFERENSI PROJECT
+
+1. OpenCV Documentation - Changing Colorspaces
+   https://docs.opencv.org/4.x/df/d9d/tutorial_py_colorspaces.html
+
+2. OpenCV Documentation - Morphological Transformations
+   https://docs.opencv.org/4.x/d9/d61/tutorial_py_morphological_ops.html
+
+3. OpenCV Documentation - Contours: Getting Started
+   https://docs.opencv.org/4.x/d4/d73/tutorial_py_contours_begin.html
+
+4. OpenCV Documentation - Getting Started with Videos
+   https://docs.opencv.org/4.x/dd/d43/tutorial_py_video_display.html
+
+5. Referensi topik dari lembar tugas:
+   PyImageSearch - Color Detection with OpenCV
+   https://pyimagesearch.com/2014/08/04/opencv-python-color-detection/
+
+Catatan:
+- Program tidak menyalin satu kode referensi secara utuh.
+- Program dikembangkan dengan fitur pilihan warna, kalibrasi klik, reduksi noise,
+  contour, bounding box, centroid, penghitung objek, FPS, screenshot, demo, dan self-test.
